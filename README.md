@@ -7,6 +7,7 @@ This project analyzes hospital patient data to identify trends in patient distri
 The dataset contains 2,000 patient records including gender, hospital department, insurance type, treatment cost, patient outcomes, and length of hospital stay.
 
 
+
 # Key Performance Indicators (KPIs)
 
 * Total Patients: 2,000
